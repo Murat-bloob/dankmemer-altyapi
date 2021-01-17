@@ -1,0 +1,59 @@
+{
+    "eris": {
+        "clientOptions": {
+            "disableEvents": {},
+            "messageLimit": 0,
+            "requestTimeout": 0,
+            "restMode": true
+        }
+    },
+    "sharder": {
+        "name": "",
+        "path": "",
+        "shardCount": 0,
+        "clusters": 0,
+        "webhooks": {
+            "shard": {
+                "id": "",
+                "token": "NjU1NDk0NTc3MTAwMjkyMTI0.XhA8mA.5IXcRwkERyUzySe4B7LuL-MjEhI"
+            },
+            "cluster": {
+                "id": "",
+                "token": "NjU1NDk0NTc3MTAwMjkyMTI0.XhA8mA.5IXcRwkERyUzySe4B7LuL-MjEhI"
+            }
+        }
+    },
+    "links": {
+        "youtube": {}
+    },
+    "lavalink": {
+        "nodes": [
+            {
+                "host": "",
+                "port": 0,
+                "region": "",
+                "portWS": 0
+            }
+        ]
+    },
+    "webhookServer": {
+        "host": "",
+        "port": 0
+    },
+    "options": {
+        "dev": true,
+        "developers": [],
+        "owners": [],
+        "prefix": "!",
+        "helpCommand": {
+            "title": "",
+            "message": "",
+            "footer": ""
+        },
+        "patreonCampaignID": "",
+        "featureRequestChannel": "",
+        "spamReportChannel": "",
+        "donorPerksChannel": "",
+        "errorChannel": ""
+    }
+}
